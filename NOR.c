@@ -11,7 +11,7 @@ int main()
 	for(int i=0; i<20;i++){
 	ans= !(a[i]+b[i]);
 	output= (a[i]*b[i]);
-printf("\n %d NOR %d = %d",
+printf("\n %d == %d = %d",
                a[i], b[i], ans, ans);
                
  printf("\n %d  AND %d = %d",
